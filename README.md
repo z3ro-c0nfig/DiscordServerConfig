@@ -45,9 +45,18 @@ Yes, **but** only on servers that are **not** yours
 Go to the section **"Installation"**
 ## Download
 
-Latest Version: **https://bit.ly/453tUsl**
+### Latest Version
 
-Older Versions: **https://bit.ly/m/dsc-versions**
+Link 1: **https://github.com/z3ro-c0nfig/ServerConfig/releases/download/DSC/DSC_V1.zip**
+
+Link 2: **https://bit.ly/453tUsl**
+
+### Older Versions
+
+Link 1: **https://github.com/z3ro-c0nfig/ServerConfig/releases**
+
+Link 2: **https://bit.ly/m/dsc-versions**
+
 ## Installation
 
 ### **Method 1** (Discord Bot Maker)
