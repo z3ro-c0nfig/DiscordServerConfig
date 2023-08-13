@@ -84,7 +84,7 @@ Link 2: **https://bit.ly/m/dsc-versions**
 
 ### **Method 2** (Visual Studio Code)
 
-1-Download Visual Studio Code at https://code.visualstudio.com/
+1-Download Visual Studio Code at **https://code.visualstudio.com/**
 
 2-Start Visual Studio Code
 
